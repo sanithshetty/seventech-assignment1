@@ -1,0 +1,9 @@
+.login{
+    margin: auto;
+    width:400px;
+    padding: 30px;
+}
+
+.shadow > button{
+    margin-top: 20px;
+}
